@@ -1,0 +1,34 @@
+* Possible sub-repos structure
+- "org-links"
+  + inline folding
+  + web-links
+  + internal links (in file)
+  + external links (other file)
+  + file opening on return 
+  + back-link caching
+- "org-highlighting"
+  + bold/italic/underline/code/verbatim
+- "org-headlines"
+  + nesting
+  + folding
+  + highlighting
+- "org-checklists"
+  + formatting
+  + trigger/complete
+- "org-images"
+- "org-formulas"
+  + (built on top of "org-images")
+  + latex compilation
+- "org-tables"
+  + auto-formatting
+  + formulas
+- "org-agenda"
+- "org-clocking"
+- "org-tags"
+- "org-priorities"
+- "org-export"
+  + to PDF
+  + to HTML
+- "org-code"
+- "org-toc"
+- "org-babel-tangle"
