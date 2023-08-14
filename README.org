@@ -32,3 +32,8 @@
 - "org-code"
 - "org-toc"
 - "org-babel-tangle"
+* Things to research
+** TODO How can I tell NeoVim to print something?
+** TODO How can I read information from `nvim-treesitter`?
+** TODO How can I tell NeoVim to format text in bold/italic/underlined?
+** TODO How does the RPC server work?
